@@ -1,7 +1,7 @@
 ﻿{
 	"config": {
 		"preset": "default",
-		"theme": "jsassist",
+		"theme": "basic",
 		"allowExternalSource": false,
 		"allowEmoticon": true,
 		"ignoreMQEmoticon": true,
@@ -29,7 +29,7 @@
 			"chatBackgroundAlpha": 25
 		},
 		"themes": {
-			"jsassist": {
+			"basic": {
 				"css": ["https://laafaan.github.io/BrCfgs/Basic.css"],
 				"js": [],
 				"image": {
