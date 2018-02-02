@@ -30,7 +30,7 @@
 		},
 		"themes": {
 			"jsassist": {
-				"css": [],
+				"css": ["https://laafaan.github.io/BrCfgs/Chat.css"],
 				"js": [],
 				"image": {
 					"streamer": "",
