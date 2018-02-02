@@ -1,8 +1,8 @@
 /* !important ∫Ÿ¿Ã∏È µ  */
 
 
-.chat_text_message img { text-align:center !important; }
-.chat_text_message img .twchimg { text-align:left !important; }
+.chat_text_message img { left:50% !important; position:absolute !important; }
+.chat_text_message img .twchimg { position:relative !important; }
 
 
 .chat_text_nickname {
@@ -81,20 +81,3 @@
     margin-left: 5px;
     vertical-align: middle;
 } 
-
-.chat_text_message_sticky_logo {
-    font-size: 12px !important;
-    font-family: Consolas !important;
-    text-align: center;
-    color: white;
-    width: 180px;
-    height: auto;
-    max-height: 200px;
-    padding: 5px;
-    margin-top: 5px;
-    margin-bottom: 5px;
-    margin-left: 5px;
-    vertical-align: middle;
-} 
-
-
