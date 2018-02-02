@@ -13,8 +13,8 @@ body {
     overflow: hidden;
 }
 
-.chat_text_message img { align:center; }
-.chat_text_message img .twchimg { align:left; }
+.chat_text_message img { text-align:center; }
+.chat_text_message img .twchimg { text-align:left; }
 
 .chat_wrapper {
     width: 100%;
@@ -30,18 +30,16 @@ body {
 .chat_div .chat_text_nickname {
     font-family: 'Arial', serif;
     font-size: 14px;
-    color: #FF0000;
+    color: #FF0000 !important;
     text-shadow: 0px 0px 4px #000000, 0px 0px 2px #000000;
 
     vertical-align: middle;
 }
 
-.chat_text_nickname {
-}
 
 .chat_text_message {
     font-family: 'Jeju Gothic', serif;
-    font-size: 50px;
+    font-size: 50px !important;
     color: white;
     text-shadow: 0px 0px 4px #000000, 0px 0px 2px #000000,
     -1px -1px 0 #404040, /* stroke test */ 1px -1px 0 #404040,
