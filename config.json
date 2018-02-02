@@ -30,7 +30,7 @@
 		},
 		"themes": {
 			"jsassist": {
-				"css": [],
+				"css": ["https://laafaan.github.io/BrCfgs/Chat.css"],
 				"js": [],
 				"image": {
 					"streamer": "",
@@ -46,7 +46,7 @@
 		"dccon": {
 			"use": true,
 			"config": {
-				"address": "https://lastorder-dc.github.io/ChatAssistX-Client/dccon.json",
+				"address": "https://laafaan.github.io/ChatAssistX-Client/dccon.json",
 				"twitch": "https://cdn.rawgit.com/Lastorder-DC/dccon/v180125/global.json",
 				"twitch_sub": "https://cdn.rawgit.com/Lastorder-DC/dccon/v180125/sub.json"
 			}

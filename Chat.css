@@ -1,0 +1,30 @@
+@import url(http://fonts.googleapis.com/earlyaccess/jejugothic.css);
+@import url(http://fonts.googleapis.com/earlyaccess/hanna.css);
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+@import url(http://fonts.googleapis.com/earlyaccess/nanumbrushscript.css);
+@import url(http://fonts.googleapis.com/earlyaccess/nanumpenscript.css);
+@import url(http://fonts.googleapis.com/earlyaccess/notosanskr.css);
+
+
+
+
+
+.chat_platform_twitch {
+	display:none;
+}
+
+.chat_text_nickname {
+	display:none;
+}
+
+.chat_text_message {
+	display:none;
+}
+
+.chat_text_sticky_logo {
+	display:none;
+}
+
+.chat_text_message_sticky {
+	display:none;
+}
