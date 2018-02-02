@@ -1,4 +1,4 @@
-/*
+
 
 @import url(http://fonts.googleapis.com/earlyaccess/jejugothic.css);
 @import url(http://fonts.googleapis.com/earlyaccess/hanna.css);
@@ -21,7 +21,7 @@ body {
 }
 
 .chat_text_message img { align:center; }
-.chat_text_messgae img .twchimg { align:left; }
+.chat_text_message img .twchimg { align:left; }
 
 .chat_wrapper {
     width: 100%;
@@ -34,7 +34,7 @@ body {
     overflow: hidden;
 }
 
-.chat_element {
+.chat_div {
     width: 250px;
     height: auto;
     max-height: 100px;
@@ -57,7 +57,7 @@ body {
 
 .chat_text_message {
     font-family: 'Jeju Gothic', serif;
-    font-size: 16px;
+    font-size: 50px;
     color: white;
     text-shadow: 0px 0px 4px #000000, 0px 0px 2px #000000,
     -1px -1px 0 #404040, /* stroke test */ 1px -1px 0 #404040,
@@ -217,4 +217,3 @@ span.backslash {
     font-family:Consolas !important;
 }
 
-*/
