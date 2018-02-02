@@ -2,7 +2,7 @@
 
 
 .chat_text_message img { display:block !important; margin-left:auto !important; margin-right:auto !important; max-height:90px !important; }
-.chat_text_message img .twchimg { display:inline !important; width:500px !important;}
+.chat_text_message img.twchimg { display:inline !important; width:500px !important;}
 
 
 .chat_text_nickname {
