@@ -44,7 +44,7 @@ body {
 .chat_text_nickname {
     font-family: 'Jeju Gothic', serif;
     font-size: 14px;
-    color: white;
+    color: blue;
     text-shadow: 0px 0px 4px #000000, 0px 0px 2px #000000;;
 
     vertical-align: middle;
@@ -53,7 +53,7 @@ body {
 .chat_text_message {
     font-family: 'Jeju Gothic', serif;
     font-size: 16px;
-    color: white;
+    color: blue;
     text-shadow: 0px 0px 4px #000000, 0px 0px 2px #000000,
     -1px -1px 0 #404040, /* stroke test */ 1px -1px 0 #404040,
     -1px 1px 0 #404040,
@@ -156,7 +156,7 @@ body {
 }
 
 .chat_text_message_sticky {
-    color:white;
+    color:blue;
     width: 90%;
     height: auto;
     max-height: 200px;
@@ -171,7 +171,7 @@ body {
     font-size: 12px !important;
     font-family: Consolas !important;
     text-align: center;
-    color: white;
+    color: blue;
     width: 180px;
     height: auto;
     max-height: 200px;
@@ -187,7 +187,7 @@ span.logo pre {
     font-size: 12px !important;
     font-family: Consolas !important;
     text-align: center;
-    color: white;
+    color: blue;
     width: 100%;
     margin-left: -50px;
     vertical-align: middle;
@@ -196,7 +196,7 @@ span.logo pre {
 span.tapiclogo pre {
     font-size: 12px !important;
     font-family: Consolas !important;
-    color: white;
+    color: blue;
     width: 100%;
     margin-top: -10px;
     margin-left: -10px;
