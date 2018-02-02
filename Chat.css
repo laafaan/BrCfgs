@@ -11,7 +11,11 @@ body {
 }
 
 .chat_container {
-    display:none;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
 }
 
 .chat_wrapper {
