@@ -27,25 +27,16 @@ body {
     overflow: hidden;
 }
 
-.chat_div {
-    width: 250px;
-    height: auto;
-    max-height: 100px;
-
-    border-radius: 3px;
-    background-color: rgba(0, 0, 255, 0.5);
-
-    vertical-align: middle;
-    overflow: hidden;
-}
-
-.chat_text_nickname {
+.chat_div .chat_text_nickname {
     font-family: 'Arial', serif;
     font-size: 14px;
     color: #FF0000;
     text-shadow: 0px 0px 4px #000000, 0px 0px 2px #000000;
 
     vertical-align: middle;
+}
+
+.chat_text_nickname {
 }
 
 .chat_text_message {
