@@ -44,7 +44,7 @@ body {
 .chat_text_nickname {
     font-family: 'Jeju Gothic', serif;
     font-size: 14px;
-    color: #4444FF;
+    color: #000000;
     text-shadow: 0px 0px 4px #000000, 0px 0px 2px #000000;;
 
     vertical-align: middle;
@@ -53,7 +53,7 @@ body {
 .chat_text_message {
     font-family: 'Jeju Gothic', serif;
     font-size: 16px;
-    color: #4444FF;
+    color: #000000;
     text-shadow: 0px 0px 4px #000000, 0px 0px 2px #000000,
     -1px -1px 0 #404040, /* stroke test */ 1px -1px 0 #404040,
     -1px 1px 0 #404040,
@@ -156,7 +156,7 @@ body {
 }
 
 .chat_text_message_sticky {
-    color:white;
+    color:#000000;
     width: 90%;
     height: auto;
     max-height: 200px;
@@ -171,7 +171,7 @@ body {
     font-size: 12px !important;
     font-family: Consolas !important;
     text-align: center;
-    color: white;
+    color: #000000;
     width: 180px;
     height: auto;
     max-height: 200px;
