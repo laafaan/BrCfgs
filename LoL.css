@@ -1,8 +1,8 @@
 /* !important ∫Ÿ¿Ã∏È µ  */
 
 
-.chat_text_message img { left:50% !important; position:absolute !important; }
-.chat_text_message img .twchimg { position:relative !important; }
+.chat_text_message img { margin-left:auto !important; margin-left:auto !important; clear:both !important; }
+.chat_text_message img .twchimg { margin-left:0px !important; margin-left:0px !important; clear:none !important; }
 
 
 .chat_text_nickname {
