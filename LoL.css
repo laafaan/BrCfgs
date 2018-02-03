@@ -14,7 +14,8 @@ body { background-color:rgba(55,55,55,0.2) !important; }
     display: block !important;
     overflow: visible !important;
     text-shadow: 2px 2px 1px #000000, 0px 0px 2px #000000 !important;
-    height: 13px !important;
+    -webkit-transform:translate(0%,50%) !important;
+    /* text-align:center !important; */
 }
 
 .chat_text_nickname img { visibiltiy:hidden !important; }
@@ -30,6 +31,7 @@ body { background-color:rgba(55,55,55,0.2) !important; }
     border-radius: 5px 5px 5px 5px !important;
     background-color: rgba(56, 255, 56, 0.4) !important;
     padding: 5px;
+    padding-top: 15px !important;
 
     width: 97% !important;
     margin-top: 5px;
