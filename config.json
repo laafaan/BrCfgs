@@ -1,7 +1,7 @@
 ﻿{
 	"config": {
 		"preset": "default",
-		"theme": "basic",
+		"theme": "lol",
 		"allowExternalSource": false,
 		"allowEmoticon": true,
 		"ignoreMQEmoticon": true,
