@@ -1,38 +1,40 @@
 /* !important 붙이면 됨 */
-
+body { background-color:rgba(55,55,55,0.2) !important; }
 
 .chat_text_message img { display:block !important; margin-left:auto !important; margin-right:auto !important; max-height:90px !important; }
 .chat_text_message img.twchimg { display:inline !important; vertical-align:text-bottom !important;}
 
 
 .chat_text_nickname {
-    font-family: 'Arial', serif;
-    font-size: 14px;
+    font-family: 'Jeju Gothic', serif !important;
+    font-size: 26px !important;
     color: #FF0000 !important;
-
-    vertical-align: middle;
+    width: 97% !important;
+    text-align: center !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    display: block !important;
+    overflow: visible !important;
+    height: 8px !important;
 }
 
 
 .chat_text_message {
     font-family: 'Jeju Gothic', serif;
-    font-size: 26px !important;
+    font-size: 26px !important; /* 적절한 사이즈임(트위치 이모티콘과) */
     color: white;
-    text-shadow: 0px 0px 4px #000000, 0px 0px 2px #000000,
-    -1px -1px 0 #404040, /* stroke test */ 1px -1px 0 #404040,
-    -1px 1px 0 #404040,
-    1px 1px 0 #404040;
 
-    width: 90%;
-    height: auto;
     max-height: 300px !important;
 
-    border-radius: 1px 5px 5px 5px;
-    background-color: rgba(0, 255, 0, 0.25);
+    border-radius: 5px 5px 5px 5px !important;
+    background-color: rgba(56, 255, 56, 0.4) !important;
     padding: 5px;
+
+    width: 97% !important;
     margin-top: 5px;
     margin-bottom: 20px;
-    margin-left: 15px;
+    margin-left: auto !important;
+    margin-right: auto !important;
 
     vertical-align: middle;
     overflow: hidden;
