@@ -14,10 +14,10 @@ body { background-color:rgba(55,55,55,0.2) !important; }
     display: block !important;
     overflow: visible !important;
     text-shadow: 2px 2px 1px #000000, 0px 0px 2px #000000 !important;
-    height: 15px !important;
+    height: 13px !important;
 }
 
-.chat_text_nickname img { display:none !important; }
+.chat_text_nickname img { visibiltiy:hidden !important; }
 
 
 .chat_text_message {
