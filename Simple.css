@@ -1,8 +1,8 @@
 /* !important 붙이면 됨 */
 /* body { background-color:rgba(55,55,55,0.2) !important; } */
 
-.chat_text_message img { display:block !important; margin-left:auto !important; margin-right:auto !important; max-height:90px !important; }
-.chat_text_message img.twchimg { display:inline !important; vertical-align:text-bottom !important;}
+.chat_text_message img { display:block !important; margin-left:auto !important; margin-right:auto !important; height:170px !important; }
+.chat_text_message img.twchimg { display:inline !important; vertical-align:text-bottom !important; height:initial !important; }
 
 
 .chat_text_nickname {
@@ -27,7 +27,7 @@
 .chat_text_message {
     font-family: 'Jeju Gothic', serif;
     font-size: 26px !important; /* 적절한 사이즈임(트위치 이모티콘과) */
-    color: white;
+    color: #999999;
 
     max-height: 300px !important;
 
