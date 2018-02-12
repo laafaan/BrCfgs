@@ -87,8 +87,8 @@
 		"JSAssist": {
 			"use": true,
 			"config": {
-				"oauth": "gcyjcl3ngfydro7gfon7zcp032fr9y",
-				"do_not_use_tapic": false,
+				"oauth": "",
+				"do_not_use_tapic": true,
 				"channelname": "laafaan"
 			}
 		},
