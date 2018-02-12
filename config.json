@@ -1,7 +1,7 @@
 ﻿{
 	"config": {
 		"preset": "default",
-		"theme": "lol",
+		"theme": "simple",
 		"allowExternalSource": false,
 		"allowEmoticon": true,
 		"ignoreMQEmoticon": true,
@@ -39,6 +39,14 @@
 			},
 			"lol": {
 				"css": ["https://laafaan.github.io/BrCfgs/LoL.css"],
+				"js": [],
+				"image": {
+					"streamer": "",
+					"moderator": ""
+				}
+			}
+			"simple": {
+				"css": ["https://laafaan.github.io/BrCfgs/Simple.css"],
 				"js": [],
 				"image": {
 					"streamer": "",
