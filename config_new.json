@@ -1,0 +1,110 @@
+﻿{
+	"config": {
+		"preset": "default",
+		"theme": "simple",
+		"allowExternalSource": false,
+		"allowEmoticon": true,
+		"ignoreMQEmoticon": true,
+		"ignoreNickname": "Nightbot,싹둑",
+		"enableTwitchEmoticon": true,
+		"TwitchEmoticonsize": "1.0",
+		"streamer": {
+			"twitch": "별고쿠",
+			"kakaopot": "  ",
+			"youtube": "(유튜브채널명)"
+		},
+		"chat": {
+			"platformIcon": true,
+			"platform": "all",
+			"animation": "fade",
+			"chatFade": 10,
+			"font": "Jeju Gothic",
+			"fontUsernameSize": 14,
+			"fontUsernameColor": "255, 255, 255",
+			"fontChatSize": 16,
+			"fontChatColor": "255, 255, 255",
+			"backgroundColor": "255, 255, 255",
+			"backgroundAlpha": 0,
+			"chatBackgroundColor": "200, 200, 200",
+			"chatBackgroundAlpha": 25
+		},
+		"themes": {
+			"basic": {
+				"css": ["https://laafaan.github.io/BrCfgs/Basic.css"],
+				"js": [],
+				"image": {
+					"streamer": "",
+					"moderator": ""
+				}
+			},
+			"lol": {
+				"css": ["https://laafaan.github.io/BrCfgs/LoL.css"],
+				"js": [],
+				"image": {
+					"streamer": "",
+					"moderator": ""
+				}
+			},
+			"simple": {
+				"css": ["https://laafaan.github.io/BrCfgs/Simple.css"],
+				"js": [],
+				"image": {
+					"streamer": "",
+					"moderator": ""
+				}
+			}
+		}
+	},
+	"plugins": {
+		"command": {
+			"use": true
+		},
+		"dccon": {
+			"use": true,
+			"config": {
+				"address": "https://laafaan.github.io/BrCfgs/dccon.json",
+				"twitch": "https://cdn.rawgit.com/Lastorder-DC/dccon/v180125/global.json",
+				"twitch_sub": "https://cdn.rawgit.com/Lastorder-DC/dccon/v180125/sub.json"
+			}
+		},
+		"style": {
+			"use": true
+		},
+		"replace" : {
+			"use": true,
+			"config": {
+				"replace_list": {
+					"궭": "ㄱㅜㅔㄹㄱ",
+					"바꿀말2": "바꿔질말2"
+				}
+			}
+		},
+		"block" : {
+			"use": true,
+			"config": {
+				"block_list": {
+					"나쁜말1": "keyword",
+					"나쁜닉네임1": "nickname",
+					"나쁜말2": "keyword",
+					"나쁜닉네임2": "nickname"
+				}
+			}
+		}
+	},
+	"provider": {
+		"JSAssist": {
+			"use": true,
+			"config": {
+				"oauth": "",
+				"do_not_use_tapic": true,
+				"channelname": "goku2093"
+			}
+		},
+		"mixer": {
+			"use": false,
+			"config": {
+				"channelid": 164900
+			}
+		}
+	}
+}
