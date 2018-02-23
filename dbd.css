@@ -1,27 +1,25 @@
 /* !important 붙이면 됨 */
-/* body { background-color:rgba(55,55,55,0.2) !important; } */
 
-.chat_text_message img { display:block !important; margin-left:auto !important; margin-right:auto !important; height:170px !important; }
-.chat_text_message img.twchimg { display:inline !important; vertical-align:text-bottom !important; height:initial !important; }
+.chat_text_message img { display:block !important; margin-left:auto !important; margin-right:auto !important; max-height:90px !important; }
+.chat_text_message img.twchimg { display:inline !important; vertical-align:text-bottom !important;}
 
 
 .chat_text_nickname {
     font-size: 19px !important;
-    font-weight: bold !important;
-    color: #444444 !important;
-    width: 100% !important;
+    color: #CCCCCC !important;
+    width: 70% !important;
     margin-left: auto !important;
     margin-right: auto !important;
     display: block !important;
     overflow: visible !important;
-    text-shadow: 0px 0px 0px !important;
-    border-radius: 0px !important;
-    background-color: rgba(200, 200, 200, 0.6) !important;
-    border-width: 0px !important;
-    padding: 2px !important;
+    -webkit-transform:translate(0%,65%) !important;
+    border-radius: 5px 5px 5px 5px !important;
+    background-color: rgba(196, 109, 72, 1) !important;
+    border-color: rgba(160, 85, 52, 0.6) !important;
+    border-width: 3px !important;
+    border-style: solid !important;
+    padding: 3px !important;
     text-align:center !important;
-    vertical-align: middle;
-    
 }
 
 .chat_text_nickname img { display:none !important; }
@@ -30,19 +28,21 @@
 .chat_text_message {
     font-family: 'Jeju Gothic', serif;
     font-size: 26px !important; /* 적절한 사이즈임(트위치 이모티콘과) */
-    color: #DEDEDE !important;
+    color: white;
 
     max-height: 300px !important;
 
-    border-width: 0px !important;
+    border-radius: 5px 5px 5px 5px !important;
+    border-width: 4px !important;
+    border-color: rgba(160, 85, 52, 0.6) !important;
     border-style: solid !important;
-    border-radius: 0px !important;
-    background-color: rgba(0, 0, 0, 0.5) !important;
-    padding: 3px;
+    background-color: rgba(196, 109, 72, 0.6) !important;
+    padding: 7px;
+    padding-top: 20px !important;
 
-    width: 100% !important;
-    margin-top: 0px;
-    margin-bottom: 10px;
+    width: 93% !important;
+    margin-top: 5px;
+    margin-bottom: 5px;
     margin-left: auto !important;
     margin-right: auto !important;
 

@@ -1,7 +1,7 @@
 ﻿{
 	"config": {
 		"preset": "default",
-		"theme": "simple",
+		"theme": "dbd",
 		"allowExternalSource": false,
 		"allowEmoticon": true,
 		"ignoreMQEmoticon": true,
@@ -47,6 +47,14 @@
 			},
 			"simple": {
 				"css": ["https://laafaan.github.io/BrCfgs/Simple.css"],
+				"js": [],
+				"image": {
+					"streamer": "",
+					"moderator": ""
+				}
+			},
+			"dbd": {
+				"css": ["https://laafaan.github.io/BrCfgs/dbd.css"],
 				"js": [],
 				"image": {
 					"streamer": "",
