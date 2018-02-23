@@ -1,7 +1,7 @@
 ﻿{
 	"config": {
 		"preset": "default",
-		"theme": "simple",
+		"theme": "dbd",
 		"allowExternalSource": false,
 		"allowEmoticon": true,
 		"ignoreMQEmoticon": true,
