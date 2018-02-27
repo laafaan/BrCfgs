@@ -9,9 +9,9 @@
 		"enableTwitchEmoticon": true,
 		"TwitchEmoticonsize": "1.0",
 		"streamer": {
-			"twitch": "별고쿠",
+			"twitch": "라판",
 			"kakaopot": "  ",
-			"youtube": "(유튜브채널명)"
+			"youtube": " "
 		},
 		"chat": {
 			"platformIcon": true,
@@ -70,7 +70,7 @@
 		"dccon": {
 			"use": true,
 			"config": {
-				"address": "https://laafaan.github.io/BrCfgs/dccon.json",
+				"address": "https://laafaan.github.io/BrCfgs/opendccon.json",
 				"twitch": "https://cdn.rawgit.com/Lastorder-DC/dccon/v180125/global.json",
 				"twitch_sub": "https://cdn.rawgit.com/Lastorder-DC/dccon/v180125/sub.json"
 			}
@@ -104,8 +104,8 @@
 			"use": true,
 			"config": {
 				"oauth": "",
-				"do_not_use_tapic": true,
-				"channelname": "goku2093"
+				"do_not_use_tapic": false,
+				"channelname": "laafaan"
 			}
 		},
 		"mixer": {
