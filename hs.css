@@ -3,11 +3,11 @@
 .chat_text_message img { display:block !important; margin-left:auto !important; margin-right:auto !important; max-height:90px !important; }
 .chat_text_message img.twchimg { display:inline !important; vertical-align:text-bottom !important; height:20px !important;}
 
-body {
-    border-style: solid;
-    border-width: 15px 16px 16px 12px;
-    -webkit-border-image: url(https://laafaan.github.io/BrCfgs/img/box.png) 49 71 49 69 stretch;
-    border-image: url(https://laafaan.github.io/BrCfgs/img/box.png) 49 71 49 69 fill stretch;
+.chat_container {
+    border-style: solid !important;
+    border-width: 15px 16px 16px 12px !important;
+    -webkit-border-image: url(https://laafaan.github.io/BrCfgs/img/box.png) 49 71 49 69 stretch !important;
+    border-image: url(https://laafaan.github.io/BrCfgs/img/box.png) 49 71 49 69 fill stretch !important;
 }
 
 .chat_text_nickname {
