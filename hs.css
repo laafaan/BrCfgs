@@ -3,6 +3,12 @@
 .chat_text_message img { display:block !important; margin-left:auto !important; margin-right:auto !important; max-height:90px !important; }
 .chat_text_message img.twchimg { display:inline !important; vertical-align:text-bottom !important; height:20px !important;}
 
+.chat_div {
+    border-style: solid;
+    border-width: 46px 50px;
+    -webkit-border-image: url(img/hsborder.png) 46 50 stretch;
+    border-image: url(img/hsborder.png) 46 50 fill stretch;
+}
 
 .chat_text_nickname {
     font-size: 20px !important;
