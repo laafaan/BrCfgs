@@ -6,8 +6,8 @@
 .chat_div {
     border-style: solid;
     border-width: 11px 10px;
-    -webkit-border-image: url(img/hsborder.png) 46 50 stretch;
-    border-image: url(img/hsborder.png) 46 50 fill stretch;
+    -webkit-border-image: url(https://laafaan.github.io/BrCfgs/img/hsborder.png) 46 50 stretch;
+    border-image: url(https://laafaan.github.io/BrCfgs/img/hsborder.png) 46 50 fill stretch;
 }
 
 .chat_text_nickname {
