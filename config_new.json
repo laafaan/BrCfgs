@@ -60,6 +60,14 @@
 					"streamer": "",
 					"moderator": ""
 				}
+			},
+			"ol": {
+				"css": ["https://laafaan.github.io/BrCfgs/oneline.css"],
+				"js": [],
+				"image": {
+					"streamer": "",
+					"moderator": ""
+				}
 			}
 		}
 	},
