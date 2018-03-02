@@ -5,7 +5,7 @@
 
 .chat_div {
     border-style: solid;
-    border-width: 46px 50px;
+    border-width: 11px 10px;
     -webkit-border-image: url(img/hsborder.png) 46 50 stretch;
     border-image: url(img/hsborder.png) 46 50 fill stretch;
 }
@@ -19,14 +19,12 @@
     display: block !important;
     overflow: visible !important;
     -webkit-transform:translate(0%,65%) !important;
-    border-radius: 5px 5px 5px 5px !important;
-    background-color: rgba(196, 109, 72, 1) !important;
-    border-color: rgba(160, 85, 52, 1) !important;
-    border-width: 3px !important;
-    border-style: solid !important;
-    padding: 3px !important;
-    padding-left: 7px !important;
-    padding-right: 7px !important;
+
+    border-style: solid;
+    border-width: 6px 6px;
+    -webkit-border-image: url(img/hsborder.png) 46 50 stretch;
+    border-image: url(img/hsborder.png) 46 50 fill stretch;
+
     text-align:center !important;
 }
 
@@ -40,11 +38,6 @@
 
     max-height: 300px !important;
 
-    border-radius: 5px 5px 5px 5px !important;
-    border-width: 4px !important;
-    border-color: rgba(160, 85, 52, 1) !important;
-    border-style: solid !important;
-    background-color: rgba(196, 109, 72, 1) !important;
     padding: 7px;
     padding-top: 20px !important;
 
