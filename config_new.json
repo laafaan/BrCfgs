@@ -68,6 +68,14 @@
 					"streamer": "",
 					"moderator": ""
 				}
+			},
+			"hs": {
+				"css": ["https://laafaan.github.io/BrCfgs/hs.css"],
+				"js": [],
+				"image": {
+					"streamer": "",
+					"moderator": ""
+				}
 			}
 		}
 	},
