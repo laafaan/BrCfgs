@@ -1,0 +1,972 @@
+﻿{"dccons":[
+{
+    "keywords":["놀람가로쉬"],
+    "tags":["하스스톤","가로쉬","놀람","치킨"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/감정/놀람가로쉬.png"
+},
+{
+    "keywords":["놀람굴단"],
+    "tags":["하스스톤","굴단","놀람"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/감정/놀람굴단.png"
+},
+{
+    "keywords":["놀람렉사르"],
+    "tags":["하스스톤","렉사르","놀람"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/감정/놀람렉사르.png"
+},
+{
+    "keywords":["놀람노루","놀람말퓨리온"],
+    "tags":["하스스톤","말퓨리온","놀람","노루"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/감정/놀람말퓨리온.png"
+},
+{
+    "keywords":["놀람발리라"],
+    "tags":["하스스톤","발리라","놀람"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/감정/놀람발리라.png"
+},
+{
+    "keywords":["놀람스랄"],
+    "tags":["하스스톤","스랄","놀람"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/감정/놀람스랄.png"
+},
+{
+    "keywords":["놀람안두인"],
+    "tags":["하스스톤","안두인","놀람"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/감정/놀람안두인.png"
+},
+{
+    "keywords":["놀람여관주인"],
+    "tags":["하스스톤","여관주인","놀람"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/감정/놀람여관주인.png"
+},
+{
+    "keywords":["놀람우서"],
+    "tags":["하스스톤","우서","놀람"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/감정/놀람우서.png"
+},
+{
+    "keywords":["놀람제이나"],
+    "tags":["하스스톤","제이나","놀람"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/감정/놀람제이나.png"
+},
+{
+    "keywords":["웃음가로쉬"],
+    "tags":["하스스톤","가로쉬","웃음","치킨"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/감정/웃음가로쉬.png"
+},
+{
+    "keywords":["웃음굴단"],
+    "tags":["하스스톤","굴단","웃음"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/감정/웃음굴단.png"
+},
+{
+    "keywords":["웃음렉사르"],
+    "tags":["하스스톤","렉사르","웃음"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/감정/웃음렉사르.png"
+},
+{
+    "keywords":["웃음노루","웃음말퓨리온"],
+    "tags":["하스스톤","말퓨리온","웃음","노루"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/감정/웃음말퓨리온.png"
+},
+{
+    "keywords":["웃음발리라"],
+    "tags":["하스스톤","발리라","웃음"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/감정/웃음발리라.png"
+},
+{
+    "keywords":["웃음스랄"],
+    "tags":["하스스톤","스랄","웃음"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/감정/웃음스랄.png"
+},
+{
+    "keywords":["웃음안두인"],
+    "tags":["하스스톤","안두인","웃음"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/감정/웃음안두인.png"
+},
+{
+    "keywords":["웃음여관주인"],
+    "tags":["하스스톤","여관주인","웃음"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/감정/웃음여관주인.png"
+},
+{
+    "keywords":["웃음우서"],
+    "tags":["하스스톤","우서","웃음"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/감정/웃음우서.png"
+},
+{
+    "keywords":["웃음제이나"],
+    "tags":["하스스톤","제이나","웃음"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/감정/웃음제이나.png"
+},
+{
+    "keywords":["눈물가로쉬"],
+    "tags":["하스스톤","가로쉬","눈물","치킨"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/감정/눈물가로쉬.png"
+},
+{
+    "keywords":["눈물굴단"],
+    "tags":["하스스톤","굴단","눈물"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/감정/눈물굴단.png"
+},
+{
+    "keywords":["눈물렉사르"],
+    "tags":["하스스톤","렉사르","눈물"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/감정/눈물렉사르.png"
+},
+{
+    "keywords":["눈물노루","눈물말퓨리온"],
+    "tags":["하스스톤","말퓨리온","눈물","노루"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/감정/눈물말퓨리온.png"
+},
+{
+    "keywords":["눈물발리라"],
+    "tags":["하스스톤","발리라","눈물"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/감정/눈물발리라.png"
+},
+{
+    "keywords":["눈물스랄"],
+    "tags":["하스스톤","스랄","눈물"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/감정/눈물스랄.png"
+},
+{
+    "keywords":["눈물안두인"],
+    "tags":["하스스톤","안두인","눈물"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/감정/눈물안두인.png"
+},
+{
+    "keywords":["눈물여관주인"],
+    "tags":["하스스톤","여관주인","눈물"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/감정/눈물여관주인.png"
+},
+{
+    "keywords":["눈물우서"],
+    "tags":["하스스톤","우서","눈물"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/감정/눈물우서.png"
+},
+{
+    "keywords":["눈물제이나"],
+    "tags":["하스스톤","제이나","눈물"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/감정/눈물제이나.png"
+},
+{
+    "keywords":["bbab"],
+    "tags":["하스스톤","벤브로드"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/비비/bbab.gif"
+},
+{
+    "keywords":["대부분","대부분버그"],
+    "tags":["하스스톤","벤브로드"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/비비/대부분.gif"
+},
+{
+    "keywords":["버그","버그대부분"],
+    "tags":["하스스톤","벤브로드"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/비비/버그.gif"
+},
+{
+    "keywords":["잔짜잔"],
+    "tags":["짜잔형"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/비비/잔짜잔.gif"
+},
+{
+    "keywords":["직관적","더직관적"],
+    "tags":["하스스톤","벤브로드"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/비비/직관적.gif"
+},
+{
+    "keywords":["짜잔"],
+    "tags":["짜잔형"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/비비/짜잔.gif"
+},
+{
+    "keywords":["갓승"],
+    "tags":["하스스톤"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/갓승.gif"
+},
+{
+    "keywords":["삭제"],
+    "tags":["하스스톤"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/삭제.gif"
+},
+{
+    "keywords":["일등"],
+    "tags":["하스스톤"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/일등.png"
+},
+{
+    "keywords":["지식","지식이늘었다"],
+    "tags":["하스스톤"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/하스/지식.gif"
+},
+{
+    "keywords":["겉바속촉"],
+    "tags":["가로쉬","치킨"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/겉바속촉.png"
+},
+{
+    "keywords":["녹차"],
+    "tags":["바리안"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/녹차.png"
+},
+{
+    "keywords":["시공"],
+    "tags":["시공","히오스"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/시공.png"
+},
+{
+    "keywords":["시공조아"],
+    "tags":["시공","히오스"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/시공조아.png"
+},
+{
+    "keywords":["히오스"],
+    "tags":["시공","히오스"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/게임/히오스.png"
+},
+{
+    "keywords":["라이젠"],
+    "tags":["cpu"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/cpu/라이젠.png"
+},
+{
+    "keywords":["리사수"],
+    "tags":["cpu"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/cpu/리사수.png"
+},
+{
+    "keywords":["암드"],
+    "tags":["cpu"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/cpu/암드.png"
+},
+{
+    "keywords":["인텔"],
+    "tags":["cpu"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/cpu/인텔.png"
+},
+{
+    "keywords":["마치"],
+    "tags":["겐고로"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/겐고로/마치.png"
+},
+{
+    "keywords":["아아"],
+    "tags":["겐고로"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/겐고로/아아.png"
+},
+{
+    "keywords":["띠껍"],
+    "tags":["띠껍"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/띠껍/띠껍.png"
+},
+{
+    "keywords":["띠껍노"],
+    "tags":["띠껍"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/띠껍/띠껍노.png"
+},
+{
+    "keywords":["띠껍따봉"],
+    "tags":["띠껍"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/띠껍/띠껍따봉.png"
+},
+{
+    "keywords":["띠껍쌍따봉"],
+    "tags":["띠껍"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/띠껍/띠껍쌍따봉.png"
+},
+{
+    "keywords":["띠껍예스"],
+    "tags":["띠껍"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/띠껍/띠껍예스.png"
+},
+{
+    "keywords":["띠껍하트"],
+    "tags":["띠껍"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/띠껍/띠껍하트.png"
+},
+{
+    "keywords":["레드카드"],
+    "tags":["띠껍"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/띠껍/레드카드.png"
+},
+{
+    "keywords":["옐로카드"],
+    "tags":["띠껍"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/띠껍/옐로카드.png"
+},
+{
+    "keywords":["그안키"],
+    "tags":["레바"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/레바/그안키.png"
+},
+{
+    "keywords":["레바띠용"],
+    "tags":["레바"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/레바/레바띠용.png"
+},
+{
+    "keywords":["레바와아"],
+    "tags":["레바"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/레바/레바와아.png"
+},
+{
+    "keywords":["레바탕탕"],
+    "tags":["레바"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/레바/레바탕탕.gif"
+},
+{
+    "keywords":["레바팝콘"],
+    "tags":["레바"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/레바/레바팝콘.png"
+},
+{
+    "keywords":["설명들갑"],
+    "tags":["레바"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/레바/설명들갑.png"
+},
+{
+    "keywords":["에라모겠"],
+    "tags":["레바"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/레바/에라모겠.png"
+},
+{
+    "keywords":["이제좀볼만"],
+    "tags":["레바"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/레바/이제좀볼만.png"
+},
+{
+    "keywords":["팝콘레바"],
+    "tags":["레바"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/레바/팝콘레바.png"
+},
+{
+    "keywords":["배그15배"],
+    "tags":["배그"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/배그/배그15배.png"
+},
+{
+    "keywords":["배그맞워요"],
+    "tags":["배그"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/배그/배그맞워요.png"
+},
+{
+    "keywords":["배그아닌대"],
+    "tags":["배그"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/배그/배그아닌대.png"
+},
+{
+    "keywords":["배그아이구야"],
+    "tags":["배그"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/배그/배그아이구야.png"
+},
+{
+    "keywords":["토드분노"],
+    "tags":["베데스다"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/베데스다/토드분노.png"
+},
+{
+    "keywords":["토드불만"],
+    "tags":["베데스다"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/베데스다/토드불만.png"
+},
+{
+    "keywords":["토드흐뭇"],
+    "tags":["베데스다"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/베데스다/토드흐뭇.png"
+},
+{
+    "keywords":["갸아악","갸아악1"],
+    "tags":["붓싼"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/붓싼/갸아악.png"
+},
+{
+    "keywords":["갸아악2"],
+    "tags":["붓싼"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/붓싼/갸아악2.png"
+},
+{
+    "keywords":["구와아악"],
+    "tags":["붓싼"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/붓싼/구와아악.png"
+},
+{
+    "keywords":["우리가남이가","우리가남이가1"],
+    "tags":["붓싼"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/붓싼/우리가남이가.png"
+},
+{
+    "keywords":["우리가남이가2"],
+    "tags":["붓싼"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/붓싼/우리가남이가2.png"
+},
+{
+    "keywords":["골든싸닉"],
+    "tags":["싸닉"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/싸닉/골든싸닉.png"
+},
+{
+    "keywords":["나클즈"],
+    "tags":["싸닉"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/싸닉/나클즈.png"
+},
+{
+    "keywords":["눈물너클즈"],
+    "tags":["싸닉","눈물"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/싸닉/눈물너클즈.png"
+},
+{
+    "keywords":["눈물소닉"],
+    "tags":["싸닉","눈물"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/싸닉/눈물소닉.png"
+},
+{
+    "keywords":["눈물에이미"],
+    "tags":["싸닉","눈물"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/싸닉/눈물에이미.png"
+},
+{
+    "keywords":["눈물테일즈"],
+    "tags":["싸닉","눈물"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/싸닉/눈물테일즈.png"
+},
+{
+    "keywords":["따일즈"],
+    "tags":["싸닉"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/싸닉/따일즈.png"
+},
+{
+    "keywords":["리얼싸닉"],
+    "tags":["싸닉"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/싸닉/리얼싸닉.png"
+},
+{
+    "keywords":["소닉붐"],
+    "tags":["싸닉"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/싸닉/소닉붐.png"
+},
+{
+    "keywords":["스웨그싸닉"],
+    "tags":["싸닉"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/싸닉/스웨그싸닉.png"
+},
+{
+    "keywords":["싸닉"],
+    "tags":["싸닉"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/싸닉/싸닉.png"
+},
+{
+    "keywords":["싸닉매니아"],
+    "tags":["싸닉"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/싸닉/싸닉매니아.png"
+},
+{
+    "keywords":["싸도우"],
+    "tags":["싸닉"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/싸닉/싸도우.png"
+},
+{
+    "keywords":["개소리"],
+    "tags":["야인시대","김두한"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/야인시대/개소리.gif"
+},
+{
+    "keywords":["사딸라"],
+    "tags":["야인시대","김두한"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/야인시대/사딸라.png"
+},
+{
+    "keywords":["상하이조"],
+    "tags":["야인시대"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/야인시대/상하이조.gif"
+},
+{
+    "keywords":["심영박수","심영박수1"],
+    "tags":["야인시대"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/야인시대/심영박수.gif"
+},
+{
+    "keywords":["심영박수2"],
+    "tags":["야인시대"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/야인시대/심영박수2.gif"
+},
+{
+    "keywords":["연막"],
+    "tags":["야인시대"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/야인시대/연막.gif"
+},
+{
+    "keywords":["오케이땡큐"],
+    "tags":["야인시대","김두한"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/야인시대/오케이땡큐.png"
+},
+{
+    "keywords":["폭발"],
+    "tags":["야인시대"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/야인시대/폭발.gif"
+},
+{
+    "keywords":["우리핵드럼"],
+    "tags":["우리핵"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/우리핵/우리핵드럼.gif"
+},
+{
+    "keywords":["우리핵박수","우리핵박수1"],
+    "tags":["우리핵","박수"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/우리핵/우리핵박수.gif"
+},
+{
+    "keywords":["우리핵박수2"],
+    "tags":["우리핵","박수"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/우리핵/우리핵박수2.gif"
+},
+{
+    "keywords":["우리핵박수3"],
+    "tags":["우리핵"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/우리핵/우리핵박수3.gif"
+},
+{
+    "keywords":["우리핵빵야"],
+    "tags":["우리핵"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/우리핵/우리핵빵야.gif"
+},
+{
+    "keywords":["우리핵쌍안경"],
+    "tags":["우리핵"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/우리핵/우리핵쌍안경.gif"
+},
+{
+    "keywords":["우리핵아닌데"],
+    "tags":["우리핵"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/우리핵/우리핵아닌데.gif"
+},
+{
+    "keywords":["우리핵안녕"],
+    "tags":["우리핵"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/우리핵/우리핵안녕.gif"
+},
+{
+    "keywords":["우리핵투정"],
+    "tags":["우리핵"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/우리핵/우리핵투정.gif"
+},
+{
+    "keywords":["괜찮아"],
+    "tags":["좋은말"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/좋은말콘/괜찮아.gif"
+},
+{
+    "keywords":["네말이맞아"],
+    "tags":["좋은말"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/좋은말콘/네말이맞아.gif"
+},
+{
+    "keywords":["누물보"],
+    "tags":["좋은말"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/좋은말콘/누물보.png"
+},
+{
+    "keywords":["부럽다"],
+    "tags":["좋은말"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/좋은말콘/부럽다.gif"
+},
+{
+    "keywords":["재밌다"],
+    "tags":["좋은말"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/좋은말콘/재밌다.gif"
+},
+{
+    "keywords":["정말멋있다","멋있다"],
+    "tags":["좋은말"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/좋은말콘/정말멋있다.gif"
+},
+{
+    "keywords":["정신승리"],
+    "tags":["좋은말"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/좋은말콘/정신승리.png"
+},
+{
+    "keywords":["좋겠다"],
+    "tags":["좋은말"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/좋은말콘/좋겠다.gif"
+},
+{
+    "keywords":["짱이야"],
+    "tags":["좋은말"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/좋은말콘/짱이야.gif"
+},
+{
+    "keywords":["노예일해"],
+    "tags":["루세트","캐피탈리즘호"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/캐피탈리즘호/노예일해.png"
+},
+{
+    "keywords":["이지붐"],
+    "tags":["캐피탈리즘호"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/캐피탈리즘호/이지붐.jpg"
+},
+{
+    "keywords":["파산","퍄산"],
+    "tags":["루세트","캐피탈리즘호"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/캐피탈리즘호/파산.png"
+},
+{
+    "keywords":["폴짝"],
+    "tags":["루세트","캐피탈리즘호"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/캐피탈리즘호/폴짝.png"
+},
+{
+    "keywords":["펄럭","펄럭1"],
+    "tags":["국뽕"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/펄럭/펄럭1.gif"
+},
+{
+    "keywords":["펄럭2"],
+    "tags":["국뽕"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/펄럭/펄럭2.gif"
+},
+{
+    "keywords":["김치워리어"],
+    "tags":["국뽕"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/펄럭/김치워리어.png"
+},
+{
+    "keywords":["무궁화1","무궁화"],
+    "tags":["국뽕"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/펄럭/무궁화1.png"
+},
+{
+    "keywords":["무궁화2"],
+    "tags":["국뽕"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/펄럭/무궁화2.png"
+},
+{
+    "keywords":["태극기"],
+    "tags":["국뽕"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/펄럭/태극기.png"
+},
+{
+    "keywords":["페페기대"],
+    "tags":["페페"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/페페/페페기대.png"
+},
+{
+    "keywords":["페페따봉"],
+    "tags":["페페"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/페페/페페따봉.png"
+},
+{
+    "keywords":["페페멋짐"],
+    "tags":["페페"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/페페/페페멋짐.png"
+},
+{
+    "keywords":["페페물음표"],
+    "tags":["페페"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/페페/페페물음표.png"
+},
+{
+    "keywords":["페페바이"],
+    "tags":["페페"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/페페/페페바이.gif"
+},
+{
+    "keywords":["페페발암"],
+    "tags":["페페"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/페페/페페발암.png"
+},
+{
+    "keywords":["페페봉기"],
+    "tags":["페페"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/페페/페페봉기.png"
+},
+{
+    "keywords":["페페빼액"],
+    "tags":["페페"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/페페/페페빼액.png"
+},
+{
+    "keywords":["페페앵그리"],
+    "tags":["페페"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/페페/페페앵그리.png"
+},
+{
+    "keywords":["페페우울"],
+    "tags":["페페"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/페페/페페우울.png"
+},
+{
+    "keywords":["페페자살"],
+    "tags":["페페"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/페페/페페자살.png"
+},
+{
+    "keywords":["페페허"],
+    "tags":["페페"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/페페/페페허.png"
+},
+{
+    "keywords":["페페헉"],
+    "tags":["페페"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/페페/페페헉.png"
+},
+{
+    "keywords":["페페헐"],
+    "tags":["페페"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/페페/페페헐.png"
+},
+{
+    "keywords":["페페화남"],
+    "tags":["페페"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/페페/페페화남.png"
+},
+{
+    "keywords":["페페흐음"],
+    "tags":["페페"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/페페/페페흐음.png"
+},
+{
+    "keywords":["문풍당당1","문풍당당"],
+    "tags":["문풍당당"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/풍당당/문풍당당1.gif"
+},
+{
+    "keywords":["문풍당당2"],
+    "tags":["문풍당당"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/풍당당/문풍당당2.gif"
+},
+{
+    "keywords":["문풍당당3"],
+    "tags":["문풍당당"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/풍당당/문풍당당3.gif"
+},
+{
+    "keywords":["예풍당당"],
+    "tags":["예풍당당"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/풍당당/예풍당당.gif"
+},
+{
+    "keywords":["이풍당당1","이풍당당"],
+    "tags":["이풍당당"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/풍당당/이풍당당1.gif"
+},
+{
+    "keywords":["이풍당당2"],
+    "tags":["이풍당당"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/풍당당/이풍당당2.gif"
+},
+{
+    "keywords":["이풍당당3"],
+    "tags":["이풍당당"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/풍당당/이풍당당3.gif"
+},
+{
+    "keywords":["핫산끝"],
+    "tags":["핫산"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/핫산/핫산끝.png"
+},
+{
+    "keywords":["핫산발상"],
+    "tags":["핫산"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/핫산/핫산발상.png"
+},
+{
+    "keywords":["핫산쾅"],
+    "tags":["핫산"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/핫산/핫산쾅.png"
+},
+{
+    "keywords":["핫산펑"],
+    "tags":["핫산"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/핫산/핫산펑.png"
+},
+{
+    "keywords":["호랑이1","호랑이"],
+    "tags":["호랑이"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/호랑이/호랑이1.gif"
+},
+{
+    "keywords":["호랑이2"],
+    "tags":["호랑이"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/호랑이/호랑이2.gif"
+},
+{
+    "keywords":["호랑이3"],
+    "tags":["호랑이"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/호랑이/호랑이3.gif"
+},
+{
+    "keywords":["호랑이4"],
+    "tags":["호랑이"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/호랑이/호랑이4.gif"
+},
+{
+    "keywords":["단하나"],
+    "tags":["혼밥콘"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/혼밥콘/단하나.gif"
+},
+{
+    "keywords":["단두개"],
+    "tags":["혼밥콘"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/혼밥콘/단두개.gif"
+},
+{
+    "keywords":["단세개"],
+    "tags":["혼밥콘"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/혼밥콘/단세개.gif"
+},
+{
+    "keywords":["뭐어라고"],
+    "tags":["혼밥콘"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/혼밥콘/뭐어라고.gif"
+},
+{
+    "keywords":["저오빠이상해"],
+    "tags":["혼밥콘"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/혼밥콘/저오빠이상해.gif"
+},
+{
+    "keywords":["혼자오셨다구요"],
+    "tags":["혼밥콘"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/혼밥콘/혼자오셨다구요.gif"
+},
+{
+    "keywords":["희키박수"],
+    "tags":["희키"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/혼밥콘/희키박수.gif"
+},
+{
+    "keywords":["ppap"],
+    "tags":["ppap"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/ppap.gif"
+},
+{
+    "keywords":["ppa카나"],
+    "tags":["ppap","트로피카나"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/ppa카나.gif"
+},
+{
+    "keywords":["트로피카나","트로피카나1"],
+    "tags":["트로피카나"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/트로피카나.gif"
+},
+{
+    "keywords":["트로피카나2"],
+    "tags":["트로피카나"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/트로피카나2.gif"
+},
+{
+    "keywords":["게이븐"],
+    "tags":["게이븐"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/게이븐.png"
+},
+{
+    "keywords":["구린갑"],
+    "tags":["구린갑"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/구린갑.gif"
+},
+{
+    "keywords":["꺼무위키"],
+    "tags":["나무위키"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/꺼무위키.png"
+},
+{
+    "keywords":["나무위키"],
+    "tags":["나무위키"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/나무위키.png"
+},
+{
+    "keywords":["대게"],
+    "tags":["대게"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/대게.png"
+},
+{
+    "keywords":["댕댕콘"],
+    "tags":["댕댕이"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/댕댕콘.gif"
+},
+{
+    "keywords":["두근두근"],
+    "tags":["두근두근"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/두근두근.gif"
+},
+{
+    "keywords":["매우정상"],
+    "tags":["정상"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/매우정상.png"
+},
+{
+    "keywords":["메모장"],
+    "tags":["메모장"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/메모장.png"
+},
+{
+    "keywords":["무지개깃발"],
+    "tags":["무지개깃발"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/무지개깃발.gif"
+},
+{
+    "keywords":["민트초코"],
+    "tags":["킹짱맛"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/민트초코.gif"
+},
+{
+    "keywords":["박수시나"],
+    "tags":["시나","박수"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/박수시나.gif"
+},
+{
+    "keywords":["버크흐뭇"],
+    "tags":["흐뭇"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/버크흐뭇.gif"
+},
+{
+    "keywords":["편안"],
+    "tags":["개비스콘"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/편안.png"
+},
+{
+    "keywords":["불편"],
+    "tags":["개비스콘"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/불편.png"
+},
+{
+    "keywords":["세종대왕"],
+    "tags":["세종대왕"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/세종대왕.png"
+},
+{
+    "keywords":["심쿵"],
+    "tags":["심쿵"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/심쿵.png"
+},
+{
+    "keywords":["인공지능"],
+    "tags":["인공지능"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/인공지능.jpg"
+},
+{
+    "keywords":["자기과시","자기과시1"],
+    "tags":["자기과시"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/자기과시.png"
+},
+{
+    "keywords":["자기과시2"],
+    "tags":["자기과시"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/자기과시2.png"
+},
+{
+    "keywords":["트럼프따봉"],
+    "tags":["트럼프"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/트럼프따봉.png"
+},
+{
+    "keywords":["파킨"],
+    "tags":["파킨"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/파킨.png"
+},
+{
+    "keywords":["팬빡침"],
+    "tags":["팬빡침"],
+    "path":"https://laafaan.github.io/BrCfgs/img/dccon/밈/팬빡침.gif"
+}
+]}

@@ -83,7 +83,7 @@
 		"dccon": {
 			"use": true,
 			"config": {
-				"address": "https://laafaan.github.io/BrCfgs/opendccon.json",
+				"address": "https://laafaan.github.io/BrCfgs/od.json",
 				"twitch": "https://cdn.rawgit.com/Lastorder-DC/dccon/v180125/global.json",
 				"twitch_sub": "https://cdn.rawgit.com/Lastorder-DC/dccon/v180125/sub.json"
 			}
