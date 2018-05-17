@@ -1,1 +1,386 @@
-﻿{"dccons":[{"keywords":["암드"],"tags":["CPU"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/amd.png"},{"keywords":["박수"],"tags":["박수","야인시대"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/baksu.gif"},{"keywords":["bbab"],"tags":["ppap","벤브로드"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/bbab.gif"},{"keywords":["버그","버그대부분"],"tags":["벤브로드","버그"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/bug.gif"},{"keywords":["부럽다"],"tags":["좋은말"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/burubda.gif"},{"keywords":["대부분","대부분버그"],"tags":["벤브로드","버그"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/dabubun.gif"},{"keywords":["두근두근"],"tags":["두근두근"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/dugeundugeun.gif"},{"keywords":["개소리","개소리집어쳐"],"tags":["야인시대","김두한"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/gasori.gif"},{"keywords":["꺼무위키","나무위키꺼라"],"tags":["나무위키"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/ggeomuwiki.png"},{"keywords":["겉바속촉"],"tags":["가로쉬","워크래프트","치킨"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/gutbasokchok.png"},{"keywords":["괜찮아"],"tags":["좋은말"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/gwanchana.gif"},{"keywords":["하스삭제","돌바"],"tags":["하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/hassakje.gif"},{"keywords":["히오스"],"tags":["히오스","시공"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/hios.png"},{"keywords":["일등","하스일등"],"tags":["하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/ildeung.png"},{"keywords":["인텔"],"tags":["CPU"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/intel.png"},{"keywords":["자기과시","뭐지"],"tags":["자기과시"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/jagigwasi.png"},{"keywords":["재밌다"],"tags":["좋은말"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/jamitda.gif"},{"keywords":["잔짜잔"],"tags":["짜잔형"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/janjjajan.gif"},{"keywords":["짜잔","그런데"],"tags":["짜잔형"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/jjajan.gif"},{"keywords":["짱이야"],"tags":["좋은말"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/jjangiya.gif"},{"keywords":["좋겠다"],"tags":["좋은말"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/joketda.gif"},{"keywords":["좋다사달라","미군양반","미치겠구만"],"tags":["야인시대","사달라","4달라"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/jotdasadollar.png"},{"keywords":["메모장"],"tags":["메모장"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/memojang.png"},{"keywords":["민트초코"],"tags":["킹짱맛","민트초코"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/mintchoco.gif"},{"keywords":["나무위키"],"tags":["나무위키"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/namuwiki.png"},{"keywords":["녹차"],"tags":["워크래프트","녹차"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nokcha.png"},{"keywords":["안두인놀람"],"tags":["놀람","안두인","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nolamanduin.png"},{"keywords":["가로쉬놀람"],"tags":["놀람","가로쉬","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nolamgarrosh.png"},{"keywords":["굴단놀람"],"tags":["놀람","굴단","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nolamguldan.png"},{"keywords":["제이나놀람"],"tags":["놀람","제이나","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nolamjaina.png"},{"keywords":["말퓨리온놀람"],"tags":["놀람","말퓨리온","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nolammalfurion.png"},{"keywords":["렉사르놀람"],"tags":["놀람","렉사르","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nolamrexxar.png"},{"keywords":["스랄놀람"],"tags":["놀람","스랄","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nolamthrall.png"},{"keywords":["우서놀람"],"tags":["놀람","우서","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nolamuther.png"},{"keywords":["발리라놀람"],"tags":["놀람","발리라","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nolamvaleera.png"},{"keywords":["여관주인놀람"],"tags":["놀람","여관주인","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nolamyeogwanjuin.png"},{"keywords":["안두인눈물"],"tags":["눈물","안두인","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nunmulanduin.png"},{"keywords":["가로쉬눈물"],"tags":["눈물","가로쉬","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nunmulgarrosh.png"},{"keywords":["굴단눈물"],"tags":["눈물","굴단","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nunmulguldan.png"},{"keywords":["제이나눈물"],"tags":["눈물","제이나","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nunmuljaina.png"},{"keywords":["말퓨리온눈물"],"tags":["눈물","말퓨리온","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nunmulmalfurion.png"},{"keywords":["렉사르눈물"],"tags":["눈물","렉사르","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nunmulrexxar.png"},{"keywords":["스랄눈물"],"tags":["눈물","스랄","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nunmulthrall.png"},{"keywords":["우서눈물"],"tags":["눈물","우서","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nunmuluther.png"},{"keywords":["발리라눈물"],"tags":["눈물","발리라","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nunmulvaleera.png"},{"keywords":["여관주인눈물"],"tags":["눈물","여관주인","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nunmulyeogwanjuin.png"},{"keywords":["오케이땡큐","땡큐"],"tags":["야인시대","사달라","4달라","김두한"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/okthankyou.png"},{"keywords":["페페빡침"],"tags":["페페","화남"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/pepebbak.png"},{"keywords":["페페바이"],"tags":["페페"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/pepebye.gif"},{"keywords":["페페총","페페권총"],"tags":["페페","권총"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/pepechong.png"},{"keywords":["페페따봉"],"tags":["페페","따봉"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/pepeddabong.png"},{"keywords":["페페화남"],"tags":["페페","화남"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/pepehwanam.png"},{"keywords":["페페죽창"],"tags":["페페"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/pepejukchang.png"},{"keywords":["페페눈물"],"tags":["페페","눈물"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/pepenunmul.png"},{"keywords":["페페팝콘"],"tags":["페페"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/pepepopcorn.png"},{"keywords":["페페시무룩"],"tags":["페페"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/pepesimuruk.gif"},{"keywords":["페페우울"],"tags":["페페"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/pepeuul.png"},{"keywords":["폭발"],"tags":["야인시대"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/pokbal.gif"},{"keywords":["ppa카나","ppacana"],"tags":["ppap","트로피카나"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/ppacana.gif"},{"keywords":["ppap"],"tags":["ppap"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/ppap.gif"},{"keywords":["사달라","4달라"],"tags":["야인시대","사달라","4달라","김두한"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/sadollar.png"},{"keywords":["시공의폭풍"],"tags":["히오스","시공"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/sigong.png"},{"keywords":["시공조아"],"tags":["히오스","시공"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/sigongjoa.png"},{"keywords":["심쿵"],"tags":["심쿵"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/simkung.png"},{"keywords":["탕탕"],"tags":["야인시대","권총"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/tangtang.gif"},{"keywords":["트로피카나","주이"],"tags":["트로피카나"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/tropicana.gif"},{"keywords":["안두인웃음"],"tags":["웃음","안두인","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/utemanduin.png"},{"keywords":["가로쉬웃음"],"tags":["웃음","가로쉬","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/utemgarrosh.png"},{"keywords":["굴단웃음"],"tags":["웃음","굴단","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/utemguldan.png"},{"keywords":["제이나웃음"],"tags":["웃음","제이나","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/utemjaina.png"},{"keywords":["말퓨리온웃음"],"tags":["웃음","말퓨리온","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/utemmalfurion.png"},{"keywords":["렉사르웃음"],"tags":["웃음","렉사르","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/utemrexxar.png"},{"keywords":["스랄웃음"],"tags":["웃음","스랄","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/utemthrall.png"},{"keywords":["우서웃음"],"tags":["웃음","우서","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/utemuther.png"},{"keywords":["발리라웃음"],"tags":["웃음","발리라","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/utemvaleera.png"},{"keywords":["여관주인웃음"],"tags":["웃음","여관주인","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/utemyeogwanjuin.png"},{"keywords":["연막"],"tags":["야인시대"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/yeonmak.gif"},{"keywords":["불편"],"tags":["개비스콘"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn2/bp.PNG"},{"keywords":["갓승"],"tags":["하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn2/godseung.gif"},{"keywords":["직관적"],"tags":["벤브로드","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn2/jikgwanjeok.gif"},{"keywords":["지식","지식이늘었다"],"tags":["하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn2/jisik.gif"},{"keywords":["편안"],"tags":["개비스콘"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn2/pa.PNG"}]}
+﻿{"dccons":[{"keywords":["암드"],"tags":["CPU"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/amd.png"},{"keywords":["박수"],"tags":["박수","야인시대"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/baksu.gif"},{"keywords":["bbab"],"tags":["ppap","벤브로드"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/bbab.gif"},{"keywords":["버그","버그대부분"],"tags":["벤브로드","버그"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/bug.gif"},{"keywords":["부럽다"],"tags":["좋은말"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/burubda.gif"},{"keywords":["대부분","대부분버그"],"tags":["벤브로드","버그"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/dabubun.gif"},{"keywords":["두근두근"],"tags":["두근두근"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/dugeundugeun.gif"},{"keywords":["개소리","개소리집어쳐"],"tags":["야인시대","김두한"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/gasori.gif"},{"keywords":["꺼무위키","나무위키꺼라"],"tags":["나무위키"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/ggeomuwiki.png"},{"keywords":["겉바속촉"],"tags":["가로쉬","워크래프트","치킨"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/gutbasokchok.png"},{"keywords":["괜찮아"],"tags":["좋은말"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/gwanchana.gif"},{"keywords":["하스삭제","돌바"],"tags":["하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/hassakje.gif"},{"keywords":["히오스"],"tags":["히오스","시공"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/hios.png"},{"keywords":["일등","하스일등"],"tags":["하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/ildeung.png"},{"keywords":["인텔"],"tags":["CPU"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/intel.png"},{"keywords":["자기과시","뭐지"],"tags":["자기과시"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/jagigwasi.png"},{"keywords":["재밌다"],"tags":["좋은말"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/jamitda.gif"},{"keywords":["잔짜잔"],"tags":["짜잔형"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/janjjajan.gif"},{"keywords":["짜잔","그런데"],"tags":["짜잔형"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/jjajan.gif"},{"keywords":["짱이야"],"tags":["좋은말"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/jjangiya.gif"},{"keywords":["좋겠다"],"tags":["좋은말"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/joketda.gif"},{"keywords":["좋다사달라","미군양반","미치겠구만"],"tags":["야인시대","사달라","4달라"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/jotdasadollar.png"},{"keywords":["메모장"],"tags":["메모장"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/memojang.png"},{"keywords":["민트초코"],"tags":["킹짱맛","민트초코"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/mintchoco.gif"},{"keywords":["나무위키"],"tags":["나무위키"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/namuwiki.png"},{"keywords":["녹차"],"tags":["워크래프트","녹차"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nokcha.png"},{"keywords":["안두인놀람"],"tags":["놀람","안두인","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nolamanduin.png"},{"keywords":["가로쉬놀람"],"tags":["놀람","가로쉬","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nolamgarrosh.png"},{"keywords":["굴단놀람"],"tags":["놀람","굴단","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nolamguldan.png"},{"keywords":["제이나놀람"],"tags":["놀람","제이나","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nolamjaina.png"},{"keywords":["말퓨리온놀람"],"tags":["놀람","말퓨리온","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nolammalfurion.png"},{"keywords":["렉사르놀람"],"tags":["놀람","렉사르","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nolamrexxar.png"},{"keywords":["스랄놀람"],"tags":["놀람","스랄","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nolamthrall.png"},{"keywords":["우서놀람"],"tags":["놀람","우서","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nolamuther.png"},{"keywords":["발리라놀람"],"tags":["놀람","발리라","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nolamvaleera.png"},{"keywords":["여관주인놀람"],"tags":["놀람","여관주인","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nolamyeogwanjuin.png"},{"keywords":["안두인눈물"],"tags":["눈물","안두인","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nunmulanduin.png"},{"keywords":["가로쉬눈물"],"tags":["눈물","가로쉬","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nunmulgarrosh.png"},{"keywords":["굴단눈물"],"tags":["눈물","굴단","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nunmulguldan.png"},{"keywords":["제이나눈물"],"tags":["눈물","제이나","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nunmuljaina.png"},{"keywords":["말퓨리온눈물"],"tags":["눈물","말퓨리온","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nunmulmalfurion.png"},{"keywords":["렉사르눈물"],"tags":["눈물","렉사르","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nunmulrexxar.png"},{"keywords":["스랄눈물"],"tags":["눈물","스랄","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nunmulthrall.png"},{"keywords":["우서눈물"],"tags":["눈물","우서","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nunmuluther.png"},{"keywords":["발리라눈물"],"tags":["눈물","발리라","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nunmulvaleera.png"},{"keywords":["여관주인눈물"],"tags":["눈물","여관주인","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/nunmulyeogwanjuin.png"},{"keywords":["오케이땡큐","땡큐"],"tags":["야인시대","사달라","4달라","김두한"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/okthankyou.png"},{"keywords":["페페빡침"],"tags":["페페","화남"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/pepebbak.png"},{"keywords":["페페바이"],"tags":["페페"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/pepebye.gif"},{"keywords":["페페총","페페권총"],"tags":["페페","권총"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/pepechong.png"},{"keywords":["페페따봉"],"tags":["페페","따봉"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/pepeddabong.png"},{"keywords":["페페화남"],"tags":["페페","화남"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/pepehwanam.png"},{"keywords":["페페죽창"],"tags":["페페"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/pepejukchang.png"},{"keywords":["페페눈물"],"tags":["페페","눈물"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/pepenunmul.png"},{"keywords":["페페팝콘"],"tags":["페페"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/pepepopcorn.png"},{"keywords":["페페시무룩"],"tags":["페페"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/pepesimuruk.gif"},{"keywords":["페페우울"],"tags":["페페"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/pepeuul.png"},{"keywords":["폭발"],"tags":["야인시대"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/pokbal.gif"},{"keywords":["ppa카나","ppacana"],"tags":["ppap","트로피카나"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/ppacana.gif"},{"keywords":["ppap"],"tags":["ppap"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/ppap.gif"},{"keywords":["사달라","4달라"],"tags":["야인시대","사달라","4달라","김두한"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/sadollar.png"},{"keywords":["시공의폭풍"],"tags":["히오스","시공"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/sigong.png"},{"keywords":["시공조아"],"tags":["히오스","시공"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/sigongjoa.png"},{"keywords":["심쿵"],"tags":["심쿵"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/simkung.png"},{"keywords":["탕탕"],"tags":["야인시대","권총"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/tangtang.gif"},{"keywords":["트로피카나","주이"],"tags":["트로피카나"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/tropicana.gif"},{"keywords":["안두인웃음"],"tags":["웃음","안두인","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/utemanduin.png"},{"keywords":["가로쉬웃음"],"tags":["웃음","가로쉬","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/utemgarrosh.png"},{"keywords":["굴단웃음"],"tags":["웃음","굴단","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/utemguldan.png"},{"keywords":["제이나웃음"],"tags":["웃음","제이나","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/utemjaina.png"},{"keywords":["말퓨리온웃음"],"tags":["웃음","말퓨리온","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/utemmalfurion.png"},{"keywords":["렉사르웃음"],"tags":["웃음","렉사르","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/utemrexxar.png"},{"keywords":["스랄웃음"],"tags":["웃음","스랄","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/utemthrall.png"},{"keywords":["우서웃음"],"tags":["웃음","우서","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/utemuther.png"},{"keywords":["발리라웃음"],"tags":["웃음","발리라","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/utemvaleera.png"},{"keywords":["여관주인웃음"],"tags":["웃음","여관주인","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/utemyeogwanjuin.png"},{"keywords":["연막"],"tags":["야인시대"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn/yeonmak.gif"},{"keywords":["불편"],"tags":["개비스콘"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn2/bp.PNG"},{"keywords":["갓승"],"tags":["하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn2/godseung.gif"},{"keywords":["직관적"],"tags":["벤브로드","하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn2/jikgwanjeok.gif"},{"keywords":["지식","지식이늘었다"],"tags":["하스스톤"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn2/jisik.gif"},{"keywords":["편안"],"tags":["개비스콘"],"path":"https://laafaan.github.io/BrCfgs/img/dcconn2/pa.PNG"},
+{
+    "keywords":["볼트넷여친"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트넷여친.png"
+},
+{
+    "keywords":["볼트넷친구"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트넷친구.png"
+},
+{
+    "keywords":["볼트동정"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트동정.png"
+},
+{
+    "keywords":["볼트가정사"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트가정사.png"
+},
+{
+    "keywords":["볼트등골"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트등골.png"
+},
+{
+    "keywords":["볼트부상"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트부상.png"
+},
+{
+    "keywords":["볼트나무"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트나무.png"
+},
+{
+    "keywords":["볼트대머리"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트대머리.png"
+},
+{
+    "keywords":["볼트침대"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트침대.png"
+},
+{
+    "keywords":["볼트활활"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트활활.png"
+},
+{
+    "keywords":["볼트댕댕"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트댕댕.png"
+},
+{
+    "keywords":["볼트기계"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트기계.png"
+},
+{
+    "keywords":["볼트결혼"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트결혼.png"
+},
+{
+    "keywords":["볼트비밀친구"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트비밀친구.png"
+},
+{
+    "keywords":["볼트군인"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트군인.png"
+},
+{
+    "keywords":["볼트닌자"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트닌자.png"
+},
+{
+    "keywords":["볼트인육"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트인육.png"
+},
+{
+    "keywords":["볼트핫산"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트핫산.png"
+},
+{
+    "keywords":["볼트주사"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트주사.png"
+},
+{
+    "keywords":["볼트빼액"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트빼액.png"
+},
+{
+    "keywords":["볼트꺼져"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트꺼져.png"
+},
+{
+    "keywords":["볼트닥쳐"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트닥쳐.png"
+},
+{
+    "keywords":["볼트안마"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트안마.png"
+},
+{
+    "keywords":["볼트망치"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트망치.png"
+},
+{
+    "keywords":["볼트빠따"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트빠따.png"
+},
+{
+    "keywords":["볼트수류탄"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트수류탄.png"
+},
+{
+    "keywords":["볼트전기톱"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트전기톱.png"
+},
+{
+    "keywords":["볼트장전"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트장전.png"
+},
+{
+    "keywords":["볼트저격"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트저격.png"
+},
+{
+    "keywords":["볼트라이플"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트라이플.png"
+},
+{
+    "keywords":["볼트화염병"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트화염병.png"
+},
+{
+    "keywords":["볼트주먹"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트주먹.png"
+},
+{
+    "keywords":["볼트컴온"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트컴온.png"
+},
+{
+    "keywords":["볼트투창"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트투창.png"
+},
+{
+    "keywords":["볼트아킴보"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트아킴보.png"
+},
+{
+    "keywords":["볼트고인"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트고인.png"
+},
+{
+    "keywords":["볼트부활"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트부활.png"
+},
+{
+    "keywords":["볼트띠용"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트띠용.png"
+},
+{
+    "keywords":["볼트신문"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트신문.png"
+},
+{
+    "keywords":["볼트눈물"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트눈물.png"
+},
+{
+    "keywords":["볼트투시"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트투시.png"
+},
+{
+    "keywords":["볼트토끼"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트토끼.png"
+},
+{
+    "keywords":["볼트포기"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트포기.png"
+},
+{
+    "keywords":["볼트자살"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트자살.png"
+},
+{
+    "keywords":["볼트게이"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트게이.png"
+},
+{
+    "keywords":["볼트딸딸"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트딸딸.png"
+},
+{
+    "keywords":["볼트음주"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트음주.png"
+},
+{
+    "keywords":["볼트수면"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트수면.png"
+},
+{
+    "keywords":["볼트우승"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트우승.png"
+},
+{
+    "keywords":["볼트루저"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트루저.png"
+},
+{
+    "keywords":["볼트구토"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트구토.png"
+},
+{
+    "keywords":["볼트예수"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트예수.png"
+},
+{
+    "keywords":["볼트연설"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트연설.png"
+},
+{
+    "keywords":["볼트공중"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트공중.png"
+},
+{
+    "keywords":["볼트엄격"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트엄격.png"
+},
+{
+    "keywords":["볼트진지"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트진지.png"
+},
+{
+    "keywords":["볼트펄럭"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트펄럭.png"
+},
+{
+    "keywords":["볼트근엄"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트근엄.png"
+},
+{
+    "keywords":["볼트답답"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트답답.png"
+},
+{
+    "keywords":["볼트절망"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트절망.png"
+},
+{
+    "keywords":["볼트관전"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트관전.png"
+},
+{
+    "keywords":["볼트통수"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트통수.png"
+},
+{
+    "keywords":["볼트연주"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트연주.png"
+},
+{
+    "keywords":["볼트파오후"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트파오후.png"
+},
+{
+    "keywords":["볼트튼튼"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트튼튼.png"
+},
+{
+    "keywords":["볼트처형"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트처형.png"
+},
+{
+    "keywords":["볼트명상"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트명상.png"
+},
+{
+    "keywords":["볼트마약"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트마약.png"
+},
+{
+    "keywords":["볼트떠남"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트떠남.png"
+},
+{
+    "keywords":["볼트경례"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트경례.png"
+},
+{
+    "keywords":["볼트근육"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트근육.png"
+},
+{
+    "keywords":["볼트자본"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트자본.png"
+},
+{
+    "keywords":["볼트설명"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트설명.png"
+},
+{
+    "keywords":["볼트논리","볼트해골"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트논리.png"
+},
+{
+    "keywords":["볼트따봉"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트따봉.png"
+},
+{
+    "keywords":["볼트찡긋"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트찡긋.png"
+},
+{
+    "keywords":["볼트불만"],
+    "tags":["볼트보이","베데스다"],
+    "path":"볼트보이/볼트불만.png"
+}]}
